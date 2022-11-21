@@ -12,7 +12,7 @@
 </p>
 
 
-## [Deployed Link](https://e-commerce-f43q9uxjh-aakashvani.vercel.app/)
+## [Deployed Link](https://starlit-muffin-9ee2ae.netlify.app/)
 
 
 <img align="center" src="https://i.imgur.com/bT1Z05l.jpg" alt="store-ss" />
