@@ -11,31 +11,8 @@
 
 </p>
 
-
 ## [Deployed Link](https://starlit-muffin-9ee2ae.netlify.app/)
-
 
 <img align="center" src="https://i.imgur.com/bT1Z05l.jpg" alt="store-ss" />
 
-
 <img align="center" src="https://i.imgur.com/38IsgEn.jpg" alt="cart-ss" />
-
-
-
-
-
-### Tools used on this project
-
-- Visual Studio Code
-
-
-<br/>
-
-<h2>📬 Contact</h2>
-
-If you want to contact me, you can reach me through below handles.
-
-[![linkedin](https://img.shields.io/badge/aakashvani17-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakashvani17/)
-[![Github](https://img.shields.io/badge/aakashvani17-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Aakashvani)
-
-© 2022 aakash-kumar
